@@ -1,7 +1,7 @@
 import subprocess
 import time
 
-FEE_LIMIT = 1
+FEE_LIMIT = 1 # change to your setup or to the current Fee Limit you want it to reflect to!
 AGE_TIMER = 300
 
 # Store the pending messages and their timestamps in a dictionary
